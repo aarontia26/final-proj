@@ -1,0 +1,35 @@
+.active {
+    color: rgb(255, 1, 1);
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.homeIntroText {
+    text-align: center;
+    margin-top: 30%;
+}
+
+/* About Start */
+.aboutMeHello {
+    display: flex;
+    margin-top: 5%;
+}
+.aboutMeContent1 {
+    width: 380px;
+}
+.aboutMeContent1 h1 {
+    font-size: 50px;
+}
+.aboutMeContent1 p {
+    font-size: 30px;
+}
+#thGenInfo {
+    font-size: 30px;
+    text-align: start;
+}
+#tableFormatRight {
+    text-align: end;
+}
+/* About End */
